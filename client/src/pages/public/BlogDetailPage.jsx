@@ -13,7 +13,10 @@ import blogService from '../../services/blogService.js';
 import TagBadge from '../../components/TagBadge.jsx';
 import { LoadingSpinner } from '../../components/LoadingSpinner.jsx';
 import { formatDate, calculateReadTime } from '../../utils/formatDate.js';
+<<<<<<< HEAD
 import MarkdownRenderer from '../../components/MarkdownRenderer.jsx';
+=======
+>>>>>>> 58081e427e6ca035feb8c8476f5949b623cfe76e
 
 export const BlogDetailPage = () => {
   const { id } = useParams();
@@ -156,9 +159,17 @@ export const BlogDetailPage = () => {
         </div>
       </header>
 
+<<<<<<< HEAD
       {/* Main Content Body - Rendered from Markdown */}
       <div className="max-w-none mb-12">
         <MarkdownRenderer content={blog.content} />
+=======
+      {/* Main Content Body */}
+      <div className="prose prose-slate max-w-none mb-12">
+        <div className="text-slate-800 text-base sm:text-lg leading-relaxed whitespace-pre-line space-y-4">
+          {blog.content}
+        </div>
+>>>>>>> 58081e427e6ca035feb8c8476f5949b623cfe76e
       </div>
 
       {/* Conclusion Section - Exact SRS Requirement */}

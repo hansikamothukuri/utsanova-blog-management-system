@@ -10,13 +10,19 @@ import {
   HelpCircle,
   Tag,
   Loader2,
+<<<<<<< HEAD
   Eye,
   Pencil,
+=======
+>>>>>>> 58081e427e6ca035feb8c8476f5949b623cfe76e
 } from 'lucide-react';
 import blogService from '../../services/blogService.js';
 import { LoadingSpinner } from '../../components/LoadingSpinner.jsx';
 import TagBadge from '../../components/TagBadge.jsx';
+<<<<<<< HEAD
 import MarkdownRenderer from '../../components/MarkdownRenderer.jsx';
+=======
+>>>>>>> 58081e427e6ca035feb8c8476f5949b623cfe76e
 
 export const AdminBlogFormPage = () => {
   const { id } = useParams();
@@ -40,7 +46,10 @@ export const AdminBlogFormPage = () => {
   const [errors, setErrors] = useState({});
   const [serverError, setServerError] = useState('');
   const [successMessage, setSuccessMessage] = useState('');
+<<<<<<< HEAD
   const [showPreview, setShowPreview] = useState(false);
+=======
+>>>>>>> 58081e427e6ca035feb8c8476f5949b623cfe76e
 
   // Fetch existing blog data if editing
   useEffect(() => {
@@ -287,6 +296,7 @@ export const AdminBlogFormPage = () => {
           )}
         </div>
 
+<<<<<<< HEAD
         {/* Main Content Body (Markdown Supported) */}
         <div>
           <div className="flex items-center justify-between mb-2">
@@ -360,6 +370,27 @@ export const AdminBlogFormPage = () => {
             </span>
           </div>
 
+=======
+        {/* Main Content Body */}
+        <div>
+          <label className="block text-xs font-bold text-slate-700 uppercase tracking-wider mb-2">
+            Main Blog Content <span className="text-red-500">*</span>
+          </label>
+          <textarea
+            rows={10}
+            value={formData.content}
+            onChange={(e) => {
+              setFormData({ ...formData, content: e.target.value });
+              if (errors.content) setErrors({ ...errors, content: null });
+            }}
+            placeholder="Write the full technical blog body here..."
+            className={`w-full p-4 bg-slate-50 border rounded-xl text-slate-900 placeholder:text-slate-400 text-sm leading-relaxed focus:outline-none focus:ring-2 focus:bg-white transition-all font-sans ${
+              errors.content
+                ? 'border-red-300 focus:ring-red-400'
+                : 'border-slate-200 focus:ring-indigo-500'
+            }`}
+          />
+>>>>>>> 58081e427e6ca035feb8c8476f5949b623cfe76e
           {errors.content && (
             <p className="mt-1.5 text-xs text-red-600 flex items-center gap-1">
               <AlertCircle className="w-3.5 h-3.5" />

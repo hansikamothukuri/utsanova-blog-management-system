@@ -9,7 +9,11 @@ import { BlogCardSkeleton } from '../../components/LoadingSpinner.jsx';
 import EmptyState from '../../components/EmptyState.jsx';
 import Pagination from '../../components/Pagination.jsx';
 
+<<<<<<< HEAD
 const BLOGS_PER_PAGE = 9;
+=======
+const BLOGS_PER_PAGE = 10;
+>>>>>>> 58081e427e6ca035feb8c8476f5949b623cfe76e
 
 export const BlogsPage = () => {
   const [searchParams, setSearchParams] = useSearchParams();

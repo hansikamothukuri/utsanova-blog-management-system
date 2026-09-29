@@ -3,7 +3,11 @@ import api from './api.js';
 export const blogService = {
   // Public blog endpoints
   // Returns { blogs: [...], pagination: { currentPage, limit, totalBlogs, totalPages } }
+<<<<<<< HEAD
   async getPublishedBlogs({ search = '', tag = '', page = 1, limit = 9 } = {}) {
+=======
+  async getPublishedBlogs({ search = '', tag = '', page = 1, limit = 10 } = {}) {
+>>>>>>> 58081e427e6ca035feb8c8476f5949b623cfe76e
     const params = { page, limit };
     if (search) params.search = search;
     if (tag) params.tag = tag;
