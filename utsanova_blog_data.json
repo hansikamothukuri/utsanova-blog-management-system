@@ -31,6 +31,16 @@
   ],
   "blogs": [
     {
+      "id": 16,
+      "title": "Comprehensive Guide to The life of student",
+      "content": "In the modern landscape of technology and education, The life of student plays a pivotal role. Organizations and students alike are actively seeking deeper mastery and practical workflows. By understanding the core fundamentals and implementing tested industry best practices, developers can build scalable and maintainable solutions. At Utsanova, we prioritize end-to-end engineering excellence and continuous learning to prepare developers for real-world impact.",
+      "tags": "Technology, Web Development, Education",
+      "conclusion": "Mastering The life of student unlocks high-leverage opportunities in modern software development. Continuous practice and building real applications remains the most reliable path to proficiency.",
+      "status": "Published",
+      "created_at": "2026-09-29 11:50:52",
+      "updated_at": "2026-09-29 11:50:52"
+    },
+    {
       "id": 15,
       "title": "blog title",
       "content": "# My Markdown Test\n\nThis is **bold** text.\n\nThis is *italic* text.\n\n## Features\n\n- HTML\n- React\n- MySQL\n\n1. First item\n2. Second item\n\n> This is a quote.\n\n`console.log(\"Hello\")`",
@@ -171,6 +181,6 @@
       "updated_at": "2026-09-28 02:04:48"
     }
   ],
-  "nextBlogId": 16,
+  "nextBlogId": 17,
   "nextAdminId": 5
 }
