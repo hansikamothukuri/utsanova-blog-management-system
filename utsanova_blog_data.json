@@ -1,0 +1,176 @@
+{
+  "admins": [
+    {
+      "id": 1,
+      "firebase_uid": "admin_default_uid_utsanova",
+      "email": "admin@utsanova.com",
+      "name": "Utsanova Administrator",
+      "created_at": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "firebase_uid": "demo-admin-uid-123",
+      "email": "admin@utsanova.com",
+      "name": "Utsanova Superadmin",
+      "created_at": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": 3,
+      "firebase_uid": "test_new_uid_777",
+      "email": "newadmin@example.com",
+      "name": "New Test Admin",
+      "created_at": "2026-09-25T13:32:45.268Z"
+    },
+    {
+      "id": 4,
+      "firebase_uid": "24O3TYju6jfCA6IEqLhCPv8jZMP2",
+      "email": "hansikamothukuri2007@gmail.com",
+      "name": "Hansika Mothukuri",
+      "created_at": "2026-09-25T13:34:12.899Z"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 15,
+      "title": "blog title",
+      "content": "# My Markdown Test\n\nThis is **bold** text.\n\nThis is *italic* text.\n\n## Features\n\n- HTML\n- React\n- MySQL\n\n1. First item\n2. Second item\n\n> This is a quote.\n\n`console.log(\"Hello\")`",
+      "tags": "tags or keywords",
+      "conclusion": "**conclusion / key takeaway**",
+      "status": "Published",
+      "created_at": "2026-09-28 17:09:51",
+      "updated_at": "2026-09-29 03:08:17"
+    },
+    {
+      "id": 14,
+      "title": "**TITLE**",
+      "content": "# My Markdown Test\n\nThis is **bold** text.\n\nThis is *italic* text.\n\n## Features\n\n- HTML\n- React\n- MySQL\n\n1. First item\n2. Second item\n\n> This is a quote.\n\n`console.log(\"Hello\")`",
+      "tags": "bdsl",
+      "conclusion": "bdjls",
+      "status": "Published",
+      "created_at": "2026-09-28 17:07:51",
+      "updated_at": "2026-09-28 17:10:09"
+    },
+    {
+      "id": 13,
+      "title": "Comprehensive Guide to **AI GENERATED**",
+      "content": "In the modern landscape of technology and education, **AI GENERATED** plays a pivotal role. Organizations and students alike are actively seeking deeper mastery and practical workflows. By understanding the core fundamentals and implementing tested industry best practices, developers can build scalable and maintainable solutions. At Utsanova, we prioritize end-to-end engineering excellence and continuous learning to prepare developers for real-world impact.",
+      "tags": "Technology, Web Development, Education",
+      "conclusion": "Mastering **AI GENERATED** unlocks high-leverage opportunities in modern software development. Continuous practice and building real applications remains the most reliable path to proficiency.",
+      "status": "Published",
+      "created_at": "2026-09-28 16:57:07",
+      "updated_at": "2026-09-28 16:57:07"
+    },
+    {
+      "id": 12,
+      "title": "Comprehensive Guide to Why we need to study",
+      "content": "In the modern landscape of technology and education, Why we need to study plays a pivotal role. Organizations and students alike are actively seeking deeper mastery and practical workflows. By understanding the core fundamentals and implementing tested industry best practices, developers can build scalable and maintainable solutions. At Utsanova, we prioritize end-to-end engineering excellence and continuous learning to prepare developers for real-world impact.",
+      "tags": "Technology, Web Development, Education",
+      "conclusion": "Mastering Why we need to study unlocks high-leverage opportunities in modern software development. Continuous practice and building real applications remains the most reliable path to proficiency.",
+      "status": "Published",
+      "created_at": "2026-09-28 01:55:00",
+      "updated_at": "2026-09-28 01:55:00"
+    },
+    {
+      "id": 11,
+      "title": "Comprehensive Guide to What is MYSQL",
+      "content": "In the modern landscape of technology and education, What is MYSQL plays a pivotal role. Organizations and students alike are actively seeking deeper mastery and practical workflows. By understanding the core fundamentals and implementing tested industry best practices, developers can build scalable and maintainable solutions. At Utsanova, we prioritize end-to-end engineering excellence and continuous learning to prepare developers for real-world impact.",
+      "tags": "Technology, Web Development, Education",
+      "conclusion": "Mastering What is MYSQL unlocks high-leverage opportunities in modern software development. Continuous practice and building real applications remains the most reliable path to proficiency.",
+      "status": "Published",
+      "created_at": "2026-09-28 01:54:40",
+      "updated_at": "2026-09-28 01:54:40"
+    },
+    {
+      "id": 10,
+      "title": "Comprehensive Guide to Utsanova",
+      "content": "In the modern landscape of technology and education, Utsanova plays a pivotal role. Organizations and students alike are actively seeking deeper mastery and practical workflows. By understanding the core fundamentals and implementing tested industry best practices, developers can build scalable and maintainable solutions. At Utsanova, we prioritize end-to-end engineering excellence and continuous learning to prepare developers for real-world impact.",
+      "tags": "Technology, Web Development, Education",
+      "conclusion": "Mastering Utsanova unlocks high-leverage opportunities in modern software development. Continuous practice and building real applications remains the most reliable path to proficiency.",
+      "status": "Published",
+      "created_at": "2026-09-28 01:54:26",
+      "updated_at": "2026-09-28 01:54:26"
+    },
+    {
+      "id": 9,
+      "title": "Comprehensive Guide to SChool vs College",
+      "content": "In the modern landscape of technology and education, SChool vs College plays a pivotal role. Organizations and students alike are actively seeking deeper mastery and practical workflows. By understanding the core fundamentals and implementing tested industry best practices, developers can build scalable and maintainable solutions. At Utsanova, we prioritize end-to-end engineering excellence and continuous learning to prepare developers for real-world impact.",
+      "tags": "Technology, Web Development, Education",
+      "conclusion": "Mastering SChool vs College unlocks high-leverage opportunities in modern software development. Continuous practice and building real applications remains the most reliable path to proficiency.",
+      "status": "Published",
+      "created_at": "2026-09-28 01:54:02",
+      "updated_at": "2026-09-28 01:54:02"
+    },
+    {
+      "id": 8,
+      "title": "Comprehensive Guide to College",
+      "content": "In the modern landscape of technology and education, College plays a pivotal role. Organizations and students alike are actively seeking deeper mastery and practical workflows. By understanding the core fundamentals and implementing tested industry best practices, developers can build scalable and maintainable solutions. At Utsanova, we prioritize end-to-end engineering excellence and continuous learning to prepare developers for real-world impact.",
+      "tags": "Technology, Web Development, Education",
+      "conclusion": "Mastering College unlocks high-leverage opportunities in modern software development. Continuous practice and building real applications remains the most reliable path to proficiency.",
+      "status": "Published",
+      "created_at": "2026-09-28 01:53:33",
+      "updated_at": "2026-09-28 01:53:33"
+    },
+    {
+      "id": 7,
+      "title": "Comprehensive Guide to School",
+      "content": "In the modern landscape of technology and education, School plays a pivotal role. Organizations and students alike are actively seeking deeper mastery and practical workflows. By understanding the core fundamentals and implementing tested industry best practices, developers can build scalable and maintainable solutions. At Utsanova, we prioritize end-to-end engineering excellence and continuous learning to prepare developers for real-world impact.",
+      "tags": "Technology, Web Development, Education",
+      "conclusion": "Mastering School unlocks high-leverage opportunities in modern software development. Continuous practice and building real applications remains the most reliable path to proficiency.",
+      "status": "Published",
+      "created_at": "2026-09-28 01:53:13",
+      "updated_at": "2026-09-28 01:53:13"
+    },
+    {
+      "id": 1,
+      "title": "The Future of Technology in Modern Education",
+      "content": "In recent years, higher education and engineering training have undergone a massive digital transformation. From interactive cloud laboratories to personalized learning pathways, modern educational systems are bridging the gap between academic theory and industry requirements. At Utsanova Technologies, our mission is to empower learners through immersive real-world project experiences and cutting-edge digital infrastructure.",
+      "tags": "Technology, Education, Web Development",
+      "conclusion": "Embracing emerging technologies is no longer optional for academic institutions. By blending real-world software practices with pedagogy, we prepare the next generation of engineers for long-term career success.",
+      "status": "Published",
+      "created_at": "2026-09-15 10:30:00",
+      "updated_at": "2026-09-15 10:30:00"
+    },
+    {
+      "id": 2,
+      "title": "How to Build Better Products with React and Vite",
+      "content": "Speed, developer ergonomics, and rock-solid architecture are the cornerstones of successful web software today. Moving to modern build systems like Vite drastically reduces cold start times and provides lightning-fast hot module replacement. When paired with modular component hierarchies, strict type definitions, and reliable state management, development teams can ship responsive products with confidence.",
+      "tags": "React, Web Development, Technology",
+      "conclusion": "Modern tooling empowers teams to spend less time configuring boilerplate and more time delivering tangible value to end users.",
+      "status": "Published",
+      "created_at": "2026-09-18 14:15:00",
+      "updated_at": "2026-09-18 14:15:00"
+    },
+    {
+      "id": 3,
+      "title": "Career Growth in 2026: Navigating the Tech Industry",
+      "content": "The tech ecosystem continues to reward individuals who master core fundamental software engineering principles alongside adaptive problem solving. Whether you are learning full-stack development, cloud deployment pipelines, or database optimizations, having strong hands-on project experience distinguishes you from the crowd. Building end-to-end full-stack systems is the highest-leverage skill an intern or junior engineer can develop.",
+      "tags": "Career, Students, Education",
+      "conclusion": "Consistency, deep curiosity, and building verified production-grade projects are the true catalysts for long-term career growth in technology.",
+      "status": "Published",
+      "created_at": "2026-09-20 09:00:00",
+      "updated_at": "2026-09-25 13:17:44"
+    },
+    {
+      "id": 4,
+      "title": "Designing Scalable Relational Database Schemas",
+      "content": "Relational databases remain the backbone of mission-critical business applications. Proper normalization, defensive indexing on query filters, and strict validation layers ensure high throughput and data integrity as user traffic scales. Understanding transactional boundaries and query performance profiling prevents expensive system bottlenecks.",
+      "tags": "Technology, Web Development",
+      "conclusion": "A well-architected relational model pays compounding dividends throughout the entire product lifecycle.",
+      "status": "Published",
+      "created_at": "2026-09-22 16:45:00",
+      "updated_at": "2026-09-22 16:45:00"
+    },
+    {
+      "id": 5,
+      "title": "Upcoming Platform Upgrades: Internal Architecture Notes",
+      "content": "This is an internal draft outlining the roadmap for Utsanova blog system enhancements, including scheduled publishing pipelines and granular role-based permissions.",
+      "tags": "Technology, Career",
+      "conclusion": "Review scheduled for next engineering sprint before public release.",
+      "status": "Published",
+      "created_at": "2026-09-24 11:20:00",
+      "updated_at": "2026-09-28 02:04:48"
+    }
+  ],
+  "nextBlogId": 16,
+  "nextAdminId": 5
+}
